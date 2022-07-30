@@ -1,5 +1,7 @@
 using DotnetCoreWebApiProject.Models;
 using DotnetCoreWebApiProject.Services;
+using DotnetCoreWebApiProject.Data;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +11,11 @@ builder.Services.AddControllers();
 builder.Services.AddAutoMapper(typeof(Program).Assembly);
 
 builder.Services.AddScoped<ICharacterService, CharacterService>();
+
+builder.Services.AddDbContextPool<DataContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("mydb"));
+});
 
 
 builder.Services.AddEndpointsApiExplorer();
