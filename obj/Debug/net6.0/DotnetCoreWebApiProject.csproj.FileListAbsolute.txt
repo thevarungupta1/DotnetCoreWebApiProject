@@ -1,3 +1,10 @@
+C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.AssemblyInfo.cs
+C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\bin\Debug\net6.0\appsettings.json
 C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\bin\Debug\net6.0\DotnetCoreWebApiProject.exe
@@ -45,13 +52,6 @@ C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\bin\Deb
 C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.csproj.AssemblyReference.cache
-C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.AssemblyInfoInputs.cache
-C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.AssemblyInfo.cs
-C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\DotnetCoreWebApiProject.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\PC\source\repos\DotnetCoreWebApiProject\DotnetCoreWebApiProject\obj\Debug\net6.0\scopedcss\bundle\DotnetCoreWebApiProject.styles.css
