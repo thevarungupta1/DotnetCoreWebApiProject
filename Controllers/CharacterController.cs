@@ -3,9 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 using DotnetCoreWebApiProject.Models;
 using DotnetCoreWebApiProject.Services;
 using DotnetCoreWebApiProject.Dtos;
+using Microsoft.AspNetCore.Authorization;
 
 namespace DotnetCoreWebApiProject.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class CharacterController : ControllerBase
